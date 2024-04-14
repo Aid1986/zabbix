@@ -69,3 +69,9 @@ systemctl enable nginx zabbix-server zabbix-agent nginx php8.1-fpm							# до�
 
 установка агента
 https://www.zabbix.com/download_agents
+
+
+
+# Задание 2
+
+
