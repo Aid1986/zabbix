@@ -74,4 +74,4 @@ https://www.zabbix.com/download_agents
 
 # Задание 2
 
-
+[Конфиг](https://github.com/Aid1986/zabbix/blob/main/Конфиг%202024-04-14%20174128.png
